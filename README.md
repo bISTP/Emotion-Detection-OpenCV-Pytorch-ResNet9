@@ -27,6 +27,8 @@ I have used the Model architecture and code from https://github.com/Conero007/Em
 ## ResNet9 Detailed Architecture
 ![ResNet9 ](img/resnet9.png)
 
+P.S : *Completed this project half a year ago, had it in my local machine the entire time but just got time to make it online, there are more projects, I'm going to be hostiong online soon*
+
 # Authors of the Dataset
 @MISC{Goodfeli-et-al-2013,
        author = {Goodfellow, Ian and Erhan, Dumitru and Carrier, Pierre-Luc and Courville, Aaron and Mirza, Mehdi and Hamner, Ben and Cukierski, Will and Tang, Yichuan and Thaler, David and Lee, Dong-Hyun and Zhou, Yingbo and Ramaiah, Chetan and Feng, Fangxiang and Li, Ruifan and Wang, Xiaojie and Athanasakis, Dimitris and Shawe-Taylor, John and Milakov, Maxim and Park, John and Ionescu, Radu and Popescu, Marius and Grozea, Cristian and Bergstra, James and Xie, Jingjing and Romaszko, Lukasz and Xu, Bing and Chuang, Zhang and Bengio, Yoshua},
