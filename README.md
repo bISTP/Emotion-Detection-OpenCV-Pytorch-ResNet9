@@ -7,17 +7,25 @@ Dataset link - https://www.kaggle.com/datasets/de270025c781ba47a3a6d774a0d670452
 
 I have used the Model architecture and code from https://github.com/Conero007/Emotion-Detection-Pytorch Repository which was trained on 5 Classes.
 
-So I trained it on 7 Classes, Added System Structure, Complete Workflow, ResNet9 Architecture, Added Confusion Matrix, Classification Report Etc.
+* So I trained it on 7 Classes - Anger, Disgust, Fear, Happy, Neutral, Sad and Surprise with 28709 images
+* Added System Structure
+* Added Complete Workflow
+* Added ResNet9 Architecture
+* Added Confusion Matrix
+* Added Classification Report
+
+# GUI
+![GUI](img/gui.png)
 
 # Design Methodology
 ## System Structure
-![abc](img/structure.png)
+![System Structure](img/structure.png)
 
 ## Complete Workflow of the System
-![abc](img/workflow.png)
+![Complete Workflow](img/workflow.png)
 
 ## ResNet9 Detailed Architecture
-![abc](img/resnet9.png)
+![ResNet9 ](img/resnet9.png)
 
 # Authors of the Dataset
 @MISC{Goodfeli-et-al-2013,
